@@ -1,0 +1,926 @@
+station_id,station_name,city,line_name,latitude,longitude,station_type,station_tier,interchange_flag,num_platforms,num_entry_exit_gates,num_escalators,num_lifts,num_afc_gates,platform_capacity,max_safe_occupancy,nearby_poi_count,poi_category,connecting_transport_modes
+DEL001,Shaheed Sthal,Delhi,Red Line,28.67,77.31,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Transit Hub,Metro;Bus
+DEL002,Hindon River,Delhi,Red Line,28.67,77.32,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL003,Arthala,Delhi,Red Line,28.67,77.33,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL004,Mohan Nagar,Delhi,Red Line,28.67,77.34,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+DEL005,Shyam Park,Delhi,Red Line,28.67,77.35,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL006,Major Mohit Sharma,Delhi,Red Line,28.67,77.36,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL007,Raj Bagh,Delhi,Red Line,28.67,77.37,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL008,Shaheed Nagar,Delhi,Red Line,28.67,77.38,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL009,Dilshad Garden,Delhi,Red Line,28.67,77.39,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL010,Jhilmil,Delhi,Red Line,28.67,77.40,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL011,Mansarovar Park,Delhi,Red Line,28.67,77.41,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL012,Shahdara,Delhi,Red Line,28.67,77.42,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL013,Welcome,Delhi,Red Line-Pink Line,28.67,77.43,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL014,Seelampur,Delhi,Red Line,28.67,77.44,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL015,Shastri Park,Delhi,Red Line,28.67,77.45,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL016,Kashmere Gate,Delhi,Red Line-Yellow Line-Violet Line,28.66,77.22,Interchange,Tier-3,1,6,16,12,8,24,2500,3000,25,Transit Hub,Metro;Rail;Bus
+DEL017,Tis Hazari,Delhi,Red Line,28.66,77.21,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+DEL018,Pul Bangash,Delhi,Red Line,28.66,77.20,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL019,Pratap Nagar,Delhi,Red Line,28.66,77.19,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL020,Shastri Nagar,Delhi,Red Line,28.66,77.18,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL021,Inderlok,Delhi,Red Line-Green Line,28.67,77.17,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL022,Kanhaiya Nagar,Delhi,Red Line,28.68,77.17,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL023,Keshav Puram,Delhi,Red Line,28.68,77.16,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL024,Netaji Subhash Place,Delhi,Red Line-Pink Line,28.69,77.15,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,15,Commercial,Metro;Bus
+DEL025,Kohat Enclave,Delhi,Red Line,28.69,77.14,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL026,Pitampura,Delhi,Red Line,28.69,77.13,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL027,Rohini East,Delhi,Red Line,28.70,77.12,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL028,Rohini West,Delhi,Red Line,28.70,77.11,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL029,Rithala,Delhi,Red Line,28.71,77.10,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Residential,Metro;Bus
+DEL030,Samaypur Badli,Delhi,Yellow Line,28.74,77.13,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Residential,Metro;Bus
+DEL031,Rohini Sector 18, 19,Delhi,Yellow Line,28.73,77.13,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL032,Haiderpur Badli Mor,Delhi,Yellow Line,28.72,77.14,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL033,Jahangirpuri,Delhi,Yellow Line,28.71,77.16,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL034,Adarsh Nagar,Delhi,Yellow Line,28.70,77.17,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL035,Azadpur,Delhi,Yellow Line-Pink Line,28.69,77.18,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL036,Model Town,Delhi,Yellow Line,28.68,77.19,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL037,GTB Nagar,Delhi,Yellow Line,28.67,77.20,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+DEL038,Vishwavidyalaya,Delhi,Yellow Line,28.66,77.21,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+DEL039,Vidhan Sabha,Delhi,Yellow Line,28.65,77.22,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Govt,Metro;Bus
+DEL040,Civil Lines,Delhi,Yellow Line,28.64,77.22,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL041,Kashmere Gate,Delhi,Yellow Line-Red Line-Violet Line,28.66,77.22,Interchange,Tier-3,1,6,16,12,8,24,2500,3000,25,Transit Hub,Metro;Rail;Bus
+DEL042,Chandni Chowk,Delhi,Yellow Line,28.65,77.23,Regular,Tier-3,0,2,6,4,2,10,1800,2100,15,Commercial,Metro;Rail;Bus
+DEL043,Chawri Bazar,Delhi,Yellow Line,28.64,77.23,Regular,Tier-3,0,2,6,4,2,10,1800,2100,15,Commercial,Metro;Bus
+DEL044,New Delhi,Delhi,Yellow Line-Airport Express,28.63,77.22,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,20,Transit Hub,Metro;Rail;Bus
+DEL045,Rajiv Chowk,Delhi,Yellow Line-Blue Line,28.63,77.21,Interchange,Tier-3,1,4,14,10,6,22,2500,3000,30,Commercial,Metro;Bus
+DEL046,Patel Chowk,Delhi,Yellow Line,28.62,77.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Govt,Metro;Bus
+DEL047,Central Secretariat,Delhi,Yellow Line-Violet Line,28.61,77.21,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Govt,Metro;Bus
+DEL048,Udyog Bhawan,Delhi,Yellow Line,28.60,77.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Govt,Metro;Bus
+DEL049,Lok Kalyan Marg,Delhi,Yellow Line,28.59,77.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Govt,Metro;Bus
+DEL050,Jor Bagh,Delhi,Yellow Line,28.58,77.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Residential,Metro;Bus
+DEL051,Dilli Haat - INA,Delhi,Yellow Line-Pink Line,28.57,77.21,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Commercial,Metro;Bus
+DEL052,AIIMS,Delhi,Yellow Line,28.56,77.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Hospital,Metro;Bus
+DEL053,Green Park,Delhi,Yellow Line,28.55,77.20,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Residential,Metro;Bus
+DEL054,Hauz Khas,Delhi,Yellow Line-Magenta Line,28.54,77.20,Interchange,Tier-3,1,4,12,8,6,20,2400,2800,18,Transit Hub,Metro;Bus
+DEL055,Malviya Nagar,Delhi,Yellow Line,28.53,77.20,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL056,Saket,Delhi,Yellow Line,28.52,77.20,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+DEL057,Qutab Minar,Delhi,Yellow Line,28.51,77.18,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Tourism,Metro;Bus
+DEL058,Chhatarpur,Delhi,Yellow Line,28.50,77.17,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL059,Sultanpur,Delhi,Yellow Line,28.49,77.15,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL060,Ghitorni,Delhi,Yellow Line,28.48,77.14,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL061,Arjan Garh,Delhi,Yellow Line,28.47,77.12,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL062,Guru Dronacharya,Delhi,Yellow Line,28.47,77.10,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Corporate,Metro;Bus
+DEL063,Sikanderpur,Delhi,Yellow Line-Rapid Metro,28.48,77.09,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Corporate,Metro;Bus
+DEL064,MG Road,Delhi,Yellow Line,28.48,77.08,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+DEL065,IFFCO Chowk,Delhi,Yellow Line,28.47,77.07,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Corporate,Metro;Bus
+DEL066,Millennium City Centre Gurugram,Delhi,Yellow Line,28.46,77.07,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Corporate,Metro;Bus
+DEL067,Noida Electronic City,Delhi,Blue Line,28.62,77.37,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Corporate,Metro;Bus
+DEL068,Noida Sector 62,Delhi,Blue Line,28.62,77.36,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Corporate,Metro;Bus
+DEL069,Noida Sector 59,Delhi,Blue Line,28.61,77.35,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Corporate,Metro;Bus
+DEL070,Noida Sector 61,Delhi,Blue Line,28.60,77.35,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL071,Noida Sector 52,Delhi,Blue Line,28.59,77.34,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL072,Noida Sector 34,Delhi,Blue Line,28.58,77.34,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL073,Noida City Centre,Delhi,Blue Line,28.57,77.35,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL074,Golf Course,Delhi,Blue Line,28.56,77.34,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL075,Botanical Garden,Delhi,Blue Line-Magenta Line,28.56,77.33,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Bus
+DEL076,Noida Sector 18,Delhi,Blue Line,28.57,77.32,Regular,Tier-2,0,2,6,4,2,10,1800,2100,12,Commercial,Metro;Bus
+DEL077,Noida Sector 16,Delhi,Blue Line,28.58,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Corporate,Metro;Bus
+DEL078,Noida Sector 15,Delhi,Blue Line,28.59,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL079,New Ashok Nagar,Delhi,Blue Line,28.59,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL080,Mayur Vihar Extension,Delhi,Blue Line,28.60,77.29,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL081,Mayur Vihar-I,Delhi,Blue Line-Pink Line,28.60,77.29,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Residential,Metro;Bus
+DEL082,Akshardham,Delhi,Blue Line,28.62,77.28,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Tourism,Metro;Bus
+DEL083,Yamuna Bank,Delhi,Blue Line-Blue Line Branch,28.62,77.27,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,10,Transit Hub,Metro;Bus
+DEL084,Indraprastha,Delhi,Blue Line,28.62,77.25,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Govt,Metro;Bus
+DEL085,Supreme Court,Delhi,Blue Line,28.62,77.24,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Govt,Metro;Bus
+DEL086,Mandi House,Delhi,Blue Line-Violet Line,28.63,77.23,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Culture,Metro;Bus
+DEL087,Barakhamba Road,Delhi,Blue Line,28.63,77.22,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Corporate,Metro;Bus
+DEL088,Rajiv Chowk,Delhi,Blue Line-Yellow Line,28.63,77.21,Interchange,Tier-3,1,4,14,10,6,22,2500,3000,30,Commercial,Metro;Bus
+DEL089,RK Ashram Marg,Delhi,Blue Line,28.64,77.21,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL090,Jhandewalan,Delhi,Blue Line,28.64,77.20,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+DEL091,Karol Bagh,Delhi,Blue Line,28.64,77.19,Regular,Tier-2,0,2,6,4,2,10,1800,2100,15,Commercial,Metro;Bus
+DEL092,Rajendra Place,Delhi,Blue Line,28.64,77.18,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Corporate,Metro;Bus
+DEL093,Patel Nagar,Delhi,Blue Line,28.65,77.17,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL094,Shadipur,Delhi,Blue Line,28.65,77.16,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL095,Kirti Nagar,Delhi,Blue Line-Green Line,28.65,77.15,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Commercial,Metro;Bus
+DEL096,Moti Nagar,Delhi,Blue Line,28.66,77.14,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL097,Ramesh Nagar,Delhi,Blue Line,28.66,77.13,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL098,Rajouri Garden,Delhi,Blue Line-Pink Line,28.65,77.12,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,15,Commercial,Metro;Bus
+DEL099,Tagore Garden,Delhi,Blue Line,28.65,77.11,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL100,Subhash Nagar,Delhi,Blue Line,28.64,77.10,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL101,Tilak Nagar,Delhi,Blue Line,28.64,77.09,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL102,Janakpuri East,Delhi,Blue Line,28.63,77.08,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL103,Janakpuri West,Delhi,Blue Line-Magenta Line,28.63,77.07,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL104,Uttam Nagar East,Delhi,Blue Line,28.62,77.06,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL105,Uttam Nagar West,Delhi,Blue Line,28.62,77.05,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL106,Nawada,Delhi,Blue Line,28.62,77.04,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL107,Dwarka Mor,Delhi,Blue Line,28.62,77.03,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+DEL108,Dwarka,Delhi,Blue Line-Grey Line,28.61,77.02,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Residential,Metro;Bus
+DEL109,Dwarka Sector 14,Delhi,Blue Line,28.60,77.02,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL110,Dwarka Sector 13,Delhi,Blue Line,28.59,77.03,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL111,Dwarka Sector 12,Delhi,Blue Line,28.59,77.04,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL112,Dwarka Sector 11,Delhi,Blue Line,28.58,77.04,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL113,Dwarka Sector 10,Delhi,Blue Line,28.58,77.05,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL114,Dwarka Sector 9,Delhi,Blue Line,28.57,77.06,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL115,Dwarka Sector 8,Delhi,Blue Line,28.56,77.06,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL116,Dwarka Sector 21,Delhi,Blue Line-Airport Express,28.55,77.06,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,15,Airport Hub,Metro;Bus
+DEL117,Vaishali,Delhi,Blue Line Branch,28.65,77.34,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Residential,Metro;Bus
+DEL118,Kaushambi,Delhi,Blue Line Branch,28.64,77.32,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL119,Anand Vihar ISBT,Delhi,Blue Line Branch-Pink Line,28.65,77.31,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,20,Transit Hub,Metro;Rail;Bus
+DEL120,Karkarduma,Delhi,Blue Line Branch-Pink Line,28.65,77.30,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Court,Metro;Bus
+DEL121,Preet Vihar,Delhi,Blue Line Branch,28.64,77.29,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL122,Nirman Vihar,Delhi,Blue Line Branch,28.63,77.28,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+DEL123,Laxmi Nagar,Delhi,Blue Line Branch,28.63,77.27,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Education,Metro;Bus
+DEL124,Yamuna Bank,Delhi,Blue Line Branch-Blue Line,28.62,77.27,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,10,Transit Hub,Metro;Bus
+DEL125,Kirti Nagar,Delhi,Green Line-Blue Line,28.65,77.15,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Commercial,Metro;Bus
+DEL126,Satguru Ram Singh Marg,Delhi,Green Line,28.66,77.15,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL127,Inderlok,Delhi,Green Line-Red Line,28.67,77.17,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL128,Ashok Park Main,Delhi,Green Line,28.67,77.16,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL129,Punjabi Bagh,Delhi,Green Line,28.67,77.14,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL130,Punjabi Bagh West,Delhi,Green Line-Pink Line,28.67,77.13,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Residential,Metro;Bus
+DEL131,Shivaji Park,Delhi,Green Line,28.67,77.12,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL132,Madipur,Delhi,Green Line,28.67,77.11,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL133,Paschim Vihar East,Delhi,Green Line,28.68,77.10,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL134,Paschim Vihar West,Delhi,Green Line,28.68,77.09,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL135,Peeragarhi,Delhi,Green Line,28.68,77.08,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Transit Hub,Metro;Bus
+DEL136,Udyog Nagar,Delhi,Green Line,28.68,77.07,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL137,Maharaja Surajmal Stadium,Delhi,Green Line,28.68,77.06,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+DEL138,Nangloi,Delhi,Green Line,28.68,77.05,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL139,Nangloi Railway Station,Delhi,Green Line,28.68,77.04,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Rail Hub,Metro;Rail;Bus
+DEL140,Rajdhani Park,Delhi,Green Line,28.69,77.02,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL141,Mundka,Delhi,Green Line,28.69,77.00,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL142,Mundka Industrial Area (MIA),Delhi,Green Line,28.69,76.98,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL143,Ghevra Metro Station,Delhi,Green Line,28.69,76.96,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL144,Tikri Kalan,Delhi,Green Line,28.69,76.94,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL145,Tikri Border,Delhi,Green Line,28.69,76.93,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Border,Metro;Bus
+DEL146,Pandit Shree Ram Sharma,Delhi,Green Line,28.69,76.91,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL147,Bahadurgarh City,Delhi,Green Line,28.68,76.90,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL148,Brig. Hoshiar Singh,Delhi,Green Line,28.68,76.89,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Residential,Metro;Bus
+DEL149,Kashmere Gate,Delhi,Violet Line-Red Line-Yellow Line,28.66,77.22,Interchange,Tier-3,1,6,16,12,8,24,2500,3000,25,Transit Hub,Metro;Rail;Bus
+DEL150,Lal Quila,Delhi,Violet Line,28.65,77.24,Regular,Tier-3,0,2,6,4,2,10,1800,2100,15,Tourism,Metro;Bus
+DEL151,Jama Masjid,Delhi,Violet Line,28.65,77.23,Regular,Tier-3,0,2,6,4,2,10,1800,2100,15,Tourism,Metro;Bus
+DEL152,Delhi Gate,Delhi,Violet Line,28.64,77.24,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Heritage,Metro;Bus
+DEL153,ITO,Delhi,Violet Line,28.63,77.24,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Govt,Metro;Bus
+DEL154,Mandi House,Delhi,Violet Line-Blue Line,28.63,77.23,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Culture,Metro;Bus
+DEL155,Janpath,Delhi,Violet Line,28.62,77.22,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Shopping,Metro;Bus
+DEL156,Central Secretariat,Delhi,Violet Line-Yellow Line,28.61,77.21,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Govt,Metro;Bus
+DEL157,Khan Market,Delhi,Violet Line,28.60,77.22,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Shopping,Metro;Bus
+DEL158,Jawaharlal Nehru Stadium,Delhi,Violet Line,28.59,77.23,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Sports,Metro;Bus
+DEL159,Jangpura,Delhi,Violet Line,28.58,77.24,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL160,Lajpat Nagar,Delhi,Violet Line-Pink Line,28.57,77.24,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Shopping,Metro;Bus
+DEL161,Moolchand,Delhi,Violet Line,28.56,77.24,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL162,Kailash Colony,Delhi,Violet Line,28.55,77.24,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL163,Nehru Place,Delhi,Violet Line,28.55,77.25,Regular,Tier-2,0,2,6,4,2,10,1800,2100,15,IT Hub,Metro;Bus
+DEL164,Kalkaji Mandir,Delhi,Violet Line-Magenta Line,28.54,77.25,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Religious,Metro;Bus
+DEL165,Govind Puri,Delhi,Violet Line,28.53,77.26,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL166,Harkesh Nagar Okhla,Delhi,Violet Line,28.53,77.27,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL167,Jasola Apollo,Delhi,Violet Line,28.53,77.28,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Hospital,Metro;Bus
+DEL168,Sarita Vihar,Delhi,Violet Line,28.52,77.29,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL169,Mohan Estate,Delhi,Violet Line,28.51,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL170,Tughlakabad Station,Delhi,Violet Line,28.50,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL171,Badarpur Border,Delhi,Violet Line,28.49,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Border,Metro;Bus
+DEL172,Sarai,Delhi,Violet Line,28.47,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL173,NHPC Chowk,Delhi,Violet Line,28.46,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL174,Mewala Maharajpur,Delhi,Violet Line,28.45,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL175,Sector 28,Delhi,Violet Line,28.44,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL176,Badakal Mor,Delhi,Violet Line,28.42,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL177,Old Faridabad,Delhi,Violet Line,28.41,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Rail Hub,Metro;Rail;Bus
+DEL178,Neelam Chowk Ajronda,Delhi,Violet Line,28.40,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL179,Bata Chowk,Delhi,Violet Line,28.38,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL180,Escorts Mujesar,Delhi,Violet Line,28.37,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL181,Sant Surdas - Sihi,Delhi,Violet Line,28.36,77.32,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL182,Raja Nahar Singh,Delhi,Violet Line,28.34,77.32,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+DEL183,Majlis Park,Delhi,Pink Line,28.71,77.17,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Residential,Metro;Bus
+DEL184,Azadpur,Delhi,Pink Line-Yellow Line,28.69,77.18,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL185,Shalimar Bagh,Delhi,Pink Line,28.70,77.16,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL186,Netaji Subhash Place,Delhi,Pink Line-Red Line,28.69,77.15,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,15,Commercial,Metro;Bus
+DEL187,Shakurpur,Delhi,Pink Line,28.68,77.14,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL188,Punjabi Bagh West,Delhi,Pink Line-Green Line,28.67,77.13,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Residential,Metro;Bus
+DEL189,ESI - Basaidarapur,Delhi,Pink Line,28.66,77.13,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Hospital,Metro;Bus
+DEL190,Rajouri Garden,Delhi,Pink Line-Blue Line,28.65,77.12,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,15,Commercial,Metro;Bus
+DEL191,Maya Puri,Delhi,Pink Line,28.64,77.13,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL192,Naraina Vihar,Delhi,Pink Line,28.63,77.14,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL193,Delhi Cantt,Delhi,Pink Line,28.60,77.13,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Military,Metro;Bus
+DEL194,Durgabai Deshmukh South Campus,Delhi,Pink Line,28.58,77.16,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Education,Metro;Bus
+DEL195,Sir M. Vishweshwaraiah Moti Bagh,Delhi,Pink Line,28.58,77.17,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Govt,Metro;Bus
+DEL196,Bhikaji Cama Place,Delhi,Pink Line,28.57,77.18,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Corporate,Metro;Bus
+DEL197,Sarojini Nagar,Delhi,Pink Line,28.57,77.19,Regular,Tier-2,0,2,6,4,2,10,1800,2100,12,Shopping,Metro;Bus
+DEL198,Dilli Haat - INA,Delhi,Pink Line-Yellow Line,28.57,77.21,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Commercial,Metro;Bus
+DEL199,South Extension,Delhi,Pink Line,28.57,77.22,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Shopping,Metro;Bus
+DEL200,Lajpat Nagar,Delhi,Pink Line-Violet Line,28.57,77.24,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Shopping,Metro;Bus
+DEL201,Vinobapuri,Delhi,Pink Line,28.56,77.25,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL202,Ashram,Delhi,Pink Line,28.57,77.26,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL203,Sarai Kale Khan - Nizamuddin,Delhi,Pink Line,28.59,77.25,Regular,Tier-3,0,2,8,4,2,12,2000,2400,15,Transit Hub,Metro;Rail;Bus
+DEL204,Mayur Vihar-I,Delhi,Pink Line-Blue Line,28.60,77.29,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Residential,Metro;Bus
+DEL205,Mayur Vihar Pocket I,Delhi,Pink Line,28.61,77.29,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL206,Trilokpuri Sanjay Lake,Delhi,Pink Line,28.61,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL207,East Vinod Nagar - Mayur Vihar II,Delhi,Pink Line,28.62,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL208,Mandawali - West Vinod Nagar,Delhi,Pink Line,28.63,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL209,IP Extension,Delhi,Pink Line,28.63,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL210,Anand Vihar ISBT,Delhi,Pink Line-Blue Line Branch,28.65,77.31,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,20,Transit Hub,Metro;Rail;Bus
+DEL211,Karkarduma,Delhi,Pink Line-Blue Line Branch,28.65,77.30,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Court,Metro;Bus
+DEL212,Karkarduma Court,Delhi,Pink Line,28.66,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Court,Metro;Bus
+DEL213,Krishna Nagar,Delhi,Pink Line,28.66,77.29,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL214,East Azad Nagar,Delhi,Pink Line,28.67,77.28,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL215,Welcome,Delhi,Pink Line-Red Line,28.67,77.43,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL216,Jaffrabad,Delhi,Pink Line,28.68,77.27,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL217,Maujpur - Babarpur,Delhi,Pink Line,28.69,77.27,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL218,Gokulpuri,Delhi,Pink Line,28.70,77.28,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL219,Johri Enclave,Delhi,Pink Line,28.71,77.29,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL220,Shiv Vihar,Delhi,Pink Line,28.72,77.29,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+DEL221,Janakpuri West,Delhi,Magenta Line-Blue Line,28.63,77.07,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Transit Hub,Metro;Bus
+DEL222,Dabri Mor - Janakpuri South,Delhi,Magenta Line,28.61,77.08,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL223,Dashrath Puri,Delhi,Magenta Line,28.60,77.08,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL224,Palam,Delhi,Magenta Line,28.59,77.08,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL225,Sadaar Bazaar Cantonment,Delhi,Magenta Line,28.58,77.10,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Military,Metro;Bus
+DEL226,Terminal 1-IGI Airport,Delhi,Magenta Line,28.56,77.12,Regular,Tier-3,0,2,8,4,2,12,2000,2400,15,Airport,Metro;Bus
+DEL227,Shankar Vihar,Delhi,Magenta Line,28.55,77.14,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Military,Metro;Bus
+DEL228,Vasant Vihar,Delhi,Magenta Line,28.55,77.16,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL229,Munirka,Delhi,Magenta Line,28.55,77.17,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL230,RK Puram,Delhi,Magenta Line,28.55,77.18,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Govt,Metro;Bus
+DEL231,IIT,Delhi,Magenta Line,28.54,77.19,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Education,Metro;Bus
+DEL232,Hauz Khas,Delhi,Magenta Line-Yellow Line,28.54,77.20,Interchange,Tier-3,1,4,12,8,6,20,2400,2800,18,Transit Hub,Metro;Bus
+DEL233,Panchsheel Park,Delhi,Magenta Line,28.54,77.21,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL234,Chirag Delhi,Delhi,Magenta Line,28.54,77.22,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL235,Greater Kailash,Delhi,Magenta Line,28.54,77.23,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL236,Nehru Enclave,Delhi,Magenta Line,28.54,77.25,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL237,Kalkaji Mandir,Delhi,Magenta Line-Violet Line,28.54,77.25,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Religious,Metro;Bus
+DEL238,Okhla NSIC,Delhi,Magenta Line,28.55,77.26,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+DEL239,Sukhdev Vihar,Delhi,Magenta Line,28.56,77.27,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL240,Jamia Millia Islamia,Delhi,Magenta Line,28.56,77.28,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Education,Metro;Bus
+DEL241,Okhla Vihar,Delhi,Magenta Line,28.56,77.29,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL242,Jasola Vihar Shaheen Bagh,Delhi,Magenta Line,28.55,77.30,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL243,Kalindi Kunj,Delhi,Magenta Line,28.54,77.31,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL244,Okhla Bird Sanctuary,Delhi,Magenta Line,28.55,77.32,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Nature,Metro;Bus
+DEL245,Botanical Garden,Delhi,Magenta Line-Blue Line,28.56,77.33,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Bus
+DEL246,Dwarka,Delhi,Grey Line-Blue Line,28.61,77.02,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,12,Residential,Metro;Bus
+DEL247,Nangli,Delhi,Grey Line,28.61,77.00,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL248,Najafgarh,Delhi,Grey Line,28.61,76.98,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+DEL249,Dhansa Bus Stand,Delhi,Grey Line,28.60,76.96,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Transit Hub,Metro;Bus
+DEL250,New Delhi,Delhi,Airport Express-Yellow Line,28.63,77.22,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,20,Transit Hub,Metro;Rail;Bus
+DEL251,Shivaji Stadium,Delhi,Airport Express,28.63,77.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Sports,Metro;Bus
+DEL252,Dhaula Kuan,Delhi,Airport Express,28.59,77.16,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Transit Hub,Metro;Bus
+DEL253,Delhi Aerocity,Delhi,Airport Express,28.55,77.12,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Hotel,Metro;Bus
+DEL254,Airport (T3),Delhi,Airport Express,28.56,77.09,Terminal,Tier-3,0,2,8,6,4,14,2200,2600,15,Airport,Metro;Bus
+DEL255,Dwarka Sector 21,Delhi,Airport Express-Blue Line,28.55,77.06,Interchange,Tier-2,1,4,10,6,4,16,2200,2500,15,Airport Hub,Metro;Bus
+DEL256,Yashobhoomi Dwarka Sector 25,Delhi,Airport Express,28.54,77.05,Terminal,Tier-2,0,2,8,4,2,12,1800,2100,10,Convention,Metro;Bus
+HYD001,Miyapur,Hyderabad,Red Line,17.49,78.36,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Transit Hub,Metro;Bus
+HYD002,JNTU College,Hyderabad,Red Line,17.49,78.39,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+HYD003,KPHB Colony,Hyderabad,Red Line,17.48,78.40,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD004,Kukatpally,Hyderabad,Red Line,17.48,78.41,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+HYD005,Dr. B. R. Ambedkar Balanagar,Hyderabad,Red Line,17.47,78.43,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+HYD006,Moosapet,Hyderabad,Red Line,17.47,78.44,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD007,Bharat Nagar,Hyderabad,Red Line,17.46,78.44,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD008,Erragadda,Hyderabad,Red Line,17.45,78.44,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD009,ESI Hospital,Hyderabad,Red Line,17.44,78.44,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Hospital,Metro;Bus
+HYD010,S. R. Nagar,Hyderabad,Red Line,17.44,78.45,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD011,Ameerpet,Hyderabad,Red Line-Blue Line,17.43,78.45,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,20,Transit Hub,Metro;Bus
+HYD012,Punjagutta,Hyderabad,Red Line,17.42,78.45,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+HYD013,Irrum Manzil,Hyderabad,Red Line,17.41,78.46,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+HYD014,Khairatabad,Hyderabad,Red Line,17.41,78.46,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD015,Lakdi-ka-pul,Hyderabad,Red Line,17.40,78.46,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Govt,Metro;Bus
+HYD016,Assembly,Hyderabad,Red Line,17.39,78.47,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Govt,Metro;Bus
+HYD017,Nampally,Hyderabad,Red Line,17.39,78.47,Regular,Tier-1,0,2,6,4,2,10,1800,2100,12,Rail Hub,Metro;Rail;Bus
+HYD018,Gandhi Bhavan,Hyderabad,Red Line,17.38,78.47,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Govt,Metro;Bus
+HYD019,Osmania Medical College,Hyderabad,Red Line,17.38,78.48,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Hospital,Metro;Bus
+HYD020,MG Bus Station,Hyderabad,Red Line-Green Line,17.37,78.48,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Transit Hub,Metro;Bus
+HYD021,Malakpet,Hyderabad,Red Line,17.37,78.49,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD022,New Market,Hyderabad,Red Line,17.36,78.50,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+HYD023,Musarambagh,Hyderabad,Red Line,17.36,78.51,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD024,Dilsukhnagar,Hyderabad,Red Line,17.36,78.52,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Commercial,Metro;Bus
+HYD025,Chaitanyapuri,Hyderabad,Red Line,17.36,78.53,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD026,Victoria Memorial,Hyderabad,Red Line,17.36,78.54,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD027,L B Nagar,Hyderabad,Red Line,17.35,78.55,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Transit Hub,Metro;Bus
+HYD028,Raidurg,Hyderabad,Blue Line,17.44,78.37,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,12,IT Hub,Metro;Bus
+HYD029,HITEC City,Hyderabad,Blue Line,17.44,78.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,15,IT Hub,Metro;Bus
+HYD030,Durgam Cheruvu,Hyderabad,Blue Line,17.44,78.39,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+HYD031,Jubilee Hills Check Post,Hyderabad,Blue Line,17.43,78.40,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD032,Road No. 5 Jubilee Hills,Hyderabad,Blue Line,17.43,78.41,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD033,Yusufguda,Hyderabad,Blue Line,17.43,78.42,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD034,Madhura Nagar,Hyderabad,Blue Line,17.43,78.44,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD035,Ameerpet,Hyderabad,Blue Line-Red Line,17.43,78.45,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,20,Transit Hub,Metro;Bus
+HYD036,Begumpet,Hyderabad,Blue Line,17.44,78.46,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Corporate,Metro;Bus
+HYD037,Prakash Nagar,Hyderabad,Blue Line,17.44,78.47,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD038,Rasoolpura,Hyderabad,Blue Line,17.44,78.47,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD039,Paradise,Hyderabad,Blue Line,17.44,78.48,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+HYD040,Parade Ground,Hyderabad,Blue Line-Green Line,17.44,78.50,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Sports,Metro;Bus
+HYD041,Secunderabad East,Hyderabad,Blue Line,17.43,78.50,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Rail Hub,Metro;Rail;Bus
+HYD042,Mettuguda,Hyderabad,Blue Line,17.43,78.51,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD043,Tarnaka,Hyderabad,Blue Line,17.43,78.53,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+HYD044,Habsiguda,Hyderabad,Blue Line,17.40,78.54,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD045,NGRI,Hyderabad,Blue Line,17.40,78.55,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Research,Metro;Bus
+HYD046,Uppal,Hyderabad,Blue Line,17.40,78.56,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+HYD047,Nagole,Hyderabad,Blue Line,17.38,78.56,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+HYD048,JBS Parade Ground,Hyderabad,Green Line-Blue Line,17.44,78.50,Terminal,Tier-3,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Bus
+HYD049,Secunderabad West,Hyderabad,Green Line,17.43,78.50,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Rail Hub,Metro;Rail;Bus
+HYD050,Gandhi Hospital,Hyderabad,Green Line,17.42,78.50,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Hospital,Metro;Bus
+HYD051,Musheerabad,Hyderabad,Green Line,17.41,78.50,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD052,RTC X Roads,Hyderabad,Green Line,17.40,78.49,Regular,Tier-2,0,2,6,4,2,10,1800,2100,10,Entertainment,Metro;Bus
+HYD053,Chikkadpally,Hyderabad,Green Line,17.40,78.49,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+HYD054,Narayanaguda,Hyderabad,Green Line,17.39,78.48,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+HYD055,Sultan Bazar,Hyderabad,Green Line,17.38,78.48,Regular,Tier-2,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+HYD056,MG Bus Station,Hyderabad,Green Line-Red Line,17.37,78.48,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Transit Hub,Metro;Bus
+BLR001,Challaghatta,Bengaluru,Purple Line,12.91,77.47,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+BLR002,Kengeri Bus Terminal,Bengaluru,Purple Line,12.91,77.48,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Transit Hub,Metro;Bus
+BLR003,Kengeri,Bengaluru,Purple Line,12.91,77.49,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR004,Pattanagere,Bengaluru,Purple Line,12.92,77.50,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+BLR005,Jnanabharathi,Bengaluru,Purple Line,12.93,77.51,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+BLR006,Rajarajeshwari Nagar,Bengaluru,Purple Line,12.93,77.52,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR007,Nayandahalli,Bengaluru,Purple Line,12.94,77.53,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+BLR008,Mysuru Road,Bengaluru,Purple Line,12.95,77.54,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Transit Hub,Metro;Bus
+BLR009,Deepanjali Nagar,Bengaluru,Purple Line,12.95,77.54,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR010,Attiguppe,Bengaluru,Purple Line,12.96,77.53,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR011,Vijayanagar,Bengaluru,Purple Line,12.97,77.53,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR012,Hosahalli,Bengaluru,Purple Line,12.97,77.54,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR013,Magadi Road,Bengaluru,Purple Line,12.97,77.55,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR014,KSR City Railway Station,Bengaluru,Purple Line,12.97,77.56,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Rail Hub,Metro;Rail;Bus
+BLR015,Nadaprabhu Kempegowda Station Majestic,Bengaluru,Purple Line-Green Line,12.97,77.57,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Central Hub,Metro;Rail;Bus
+BLR016,Sir M. Visvesvaraya Station Central College,Bengaluru,Purple Line,12.97,77.58,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+BLR017,Dr. B.R. Ambedkar Station Vidhana Soudha,Bengaluru,Purple Line,12.97,77.59,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Govt,Metro;Bus
+BLR018,Cubbon Park,Bengaluru,Purple Line,12.98,77.59,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Park,Metro;Bus
+BLR019,Mahatma Gandhi Road,Bengaluru,Purple Line-Pink Line,12.97,77.60,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Commercial,Metro;Bus
+BLR020,Trinity,Bengaluru,Purple Line,12.97,77.61,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR021,Halasuru,Bengaluru,Purple Line,12.97,77.62,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR022,Indiranagar,Bengaluru,Purple Line,12.97,77.63,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+BLR023,Swami Vivekananda Road,Bengaluru,Purple Line,12.98,77.64,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR024,Benniganahalli,Bengaluru,Purple Line,12.99,77.66,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR025,Krishnarajapura (KR Pura),Bengaluru,Purple Line-Blue Line,13.00,77.67,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Rail;Bus
+BLR026,Singayyanapalya,Bengaluru,Purple Line,12.99,77.69,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Park,Metro;Bus
+BLR027,Garudacharpalya,Bengaluru,Purple Line-Blue Line,12.99,77.70,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Park,Metro;Bus
+BLR028,Hoodi,Bengaluru,Purple Line-Blue Line,12.99,77.71,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR029,Seetharampalya,Bengaluru,Purple Line-Blue Line,12.98,77.72,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR030,Kundalahalli,Bengaluru,Purple Line,12.97,77.72,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,IT Hub,Metro;Bus
+BLR031,Madavara,Bengaluru,Green Line,13.07,77.47,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Exhibition,Metro;Bus
+BLR032,Chikkabidarakallu,Bengaluru,Green Line,13.06,77.49,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR033,Manjunathanagar,Bengaluru,Green Line,13.05,77.50,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR034,Nagasandra,Bengaluru,Green Line,13.04,77.50,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+BLR035,Dasarahalli,Bengaluru,Green Line,13.04,77.51,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR036,Jalahalli,Bengaluru,Green Line,13.03,77.52,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR037,Peenya Industry,Bengaluru,Green Line,13.03,77.52,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+BLR038,Peenya,Bengaluru,Green Line,13.03,77.53,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+BLR039,Goraguntepalya,Bengaluru,Green Line,13.02,77.54,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR040,Yeshwanthpur,Bengaluru,Green Line,13.02,77.55,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Rail Hub,Metro;Rail;Bus
+BLR041,Sandal Soap Factory,Bengaluru,Green Line,13.01,77.55,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR042,Mahalakshmi,Bengaluru,Green Line-Blue Line,13.01,77.55,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR043,Rajajinagar,Bengaluru,Green Line,13.00,77.55,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR044,Kuvempu Road,Bengaluru,Green Line,12.99,77.55,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR045,Srirampura,Bengaluru,Green Line,12.99,77.56,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR046,Mantri Square Sampige Road,Bengaluru,Green Line,12.99,77.57,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR047,Nadaprabhu Kempegowda Station Majestic,Bengaluru,Green Line-Purple Line,12.97,77.57,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Central Hub,Metro;Rail;Bus
+BLR048,Chickpet,Bengaluru,Green Line,12.97,77.57,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR049,Krishna Rajendra Market,Bengaluru,Green Line,12.96,77.57,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Market,Metro;Bus
+BLR050,National College,Bengaluru,Green Line,12.95,77.57,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+BLR051,Lalbagh,Bengaluru,Green Line,12.95,77.58,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Botanical Garden,Metro;Bus
+BLR052,South End Circle,Bengaluru,Green Line,12.94,77.58,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR053,Jayanagar,Bengaluru,Green Line,12.93,77.58,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR054,Rashtriya Vidyalaya Road,Bengaluru,Green Line-Yellow Line-Blue Line,12.92,77.58,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Bus
+BLR055,Banashankari,Bengaluru,Green Line,12.91,77.57,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Transit Hub,Metro;Bus
+BLR056,Jaya Prakash Nagar,Bengaluru,Green Line,12.91,77.58,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR057,Yelachenahalli,Bengaluru,Green Line,12.90,77.58,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR058,Konanakunte Cross,Bengaluru,Green Line,12.89,77.57,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR059,Doddakallasandra,Bengaluru,Green Line,12.88,77.56,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR060,Vajarahalli,Bengaluru,Green Line,12.87,77.55,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR061,Thalaghattapura,Bengaluru,Green Line,12.86,77.54,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR062,Silk Institute,Bengaluru,Green Line,12.85,77.53,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+BLR063,Rashtriya Vidyalaya Road,Bengaluru,Yellow Line-Green Line,12.92,77.58,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Bus
+BLR064,Ragigudda,Bengaluru,Yellow Line-Blue Line,12.92,77.59,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR065,Jayadeva Hospital,Bengaluru,Yellow Line-Pink Line-Blue Line,12.92,77.60,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,20,Hospital Hub,Metro;Bus
+BLR066,BTM Layout,Bengaluru,Yellow Line,12.91,77.61,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR067,Central Silk Board,Bengaluru,Yellow Line-Blue Line,12.91,77.62,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Junction,Metro;Bus
+BLR068,HSR Layout,Bengaluru,Yellow Line-Blue Line,12.91,77.63,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR069,Agara,Bengaluru,Yellow Line,12.92,77.64,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR070,Ibblur,Bengaluru,Yellow Line-Blue Line,12.92,77.66,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR071,Bellandur,Bengaluru,Yellow Line-Blue Line,12.93,77.67,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,10,IT Hub,Metro;Bus
+BLR072,Kadubeesanahalli,Bengaluru,Yellow Line-Blue Line,12.93,77.69,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR073,Marathahalli,Bengaluru,Yellow Line-Blue Line,12.95,77.70,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+BLR074,ISRO,Bengaluru,Yellow Line-Blue Line,12.96,77.70,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Research,Metro;Bus
+BLR075,DRDO Sports Complex,Bengaluru,Yellow Line,12.97,77.69,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Sports,Metro;Bus
+BLR076,Doddanekundi,Bengaluru,Yellow Line-Blue Line,12.98,77.69,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR077,Visvesvaraya Industrial Area,Bengaluru,Yellow Line,12.87,77.67,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+BLR078,Electronic City,Bengaluru,Yellow Line,12.84,77.66,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,IT Hub,Metro;Bus
+BLR079,Bommasandra,Bengaluru,Yellow Line,12.81,77.67,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Industrial,Metro;Bus
+BLR080,Kalena Agrahara,Bengaluru,Pink Line,12.86,77.59,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Residential,Metro;Bus
+BLR081,Hulimavu,Bengaluru,Pink Line,12.87,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR082,IIMB,Bengaluru,Pink Line,12.89,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Education,Metro;Bus
+BLR083,JP Nagar 4th Phase,Bengaluru,Pink Line,12.90,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR084,Jayadeva Hospital,Bengaluru,Pink Line-Yellow Line,12.92,77.60,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,20,Hospital Hub,Metro;Bus
+BLR085,Tavarekere,Bengaluru,Pink Line,12.93,77.61,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR086,Dairy Circle,Bengaluru,Pink Line,12.94,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+BLR087,Lakkasandra,Bengaluru,Pink Line,12.95,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR088,Langford Town,Bengaluru,Pink Line,12.96,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR089,Rashtriya Military School,Bengaluru,Pink Line,12.97,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,School,Metro;Bus
+BLR090,MG Road,Bengaluru,Pink Line-Purple Line,12.97,77.60,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Commercial,Metro;Bus
+BLR091,Shivajinagar,Bengaluru,Pink Line,12.98,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Transit Hub,Metro;Bus
+BLR092,Cantonment Railway Station,Bengaluru,Pink Line,12.99,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Rail Hub,Metro;Rail;Bus
+BLR093,Pottery Town,Bengaluru,Pink Line,13.00,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR094,Tannery Road,Bengaluru,Pink Line,13.01,77.61,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Commercial,Metro;Bus
+BLR095,Venkateshpura,Bengaluru,Blue Line,13.02,77.61,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR096,Kadugondanahalli,Bengaluru,Blue Line,13.03,77.62,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR097,Nagawara,Bengaluru,Blue Line,13.04,77.62,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Transit Hub,Metro;Bus
+BLR098,Kempegowda International Airport,Bengaluru,Blue Line,13.20,77.71,Terminal,Tier-3,0,2,8,6,4,14,2200,2600,15,Airport,Metro;Bus
+BLR099,Airport City,Bengaluru,Blue Line,13.18,77.69,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Airport Hub,Metro;Bus
+BLR100,Doddajala,Bengaluru,Blue Line,13.15,77.65,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR101,Bettahalsoor,Bengaluru,Blue Line,13.13,77.64,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR102,Bagalur Cross,Bengaluru,Blue Line,13.11,77.63,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+BLR103,Yelahanka,Bengaluru,Blue Line,13.10,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Residential,Metro;Bus
+BLR104,Jakkur Cross,Bengaluru,Blue Line,13.08,77.60,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR105,Kodigehalli,Bengaluru,Blue Line,13.06,77.59,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR106,Hebbal,Bengaluru,Blue Line,13.03,77.59,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Transit Hub,Metro;Rail;Bus
+BLR107,Kempapura,Bengaluru,Blue Line,13.04,77.61,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR108,Veerasandra,Bengaluru,Blue Line,13.04,77.62,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+BLR109,HSR Layout,Bengaluru,Blue Line,13.04,77.63,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR110,Kalyan Nagar,Bengaluru,Blue Line,13.02,77.64,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR111,HRBR Layout,Bengaluru,Blue Line,13.01,77.64,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR112,Horamavu,Bengaluru,Blue Line,13.02,77.66,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR113,Kasturinagar,Bengaluru,Blue Line,13.01,77.66,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR114,Mahadevapura,Bengaluru,Blue Line,12.99,77.67,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR115,KR Pura,Bengaluru,Blue Line-Purple Line,13.00,77.67,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Rail;Bus
+BLR116,Doddanekundi,Bengaluru,Blue Line,12.98,77.69,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR117,DRDO Sec,Bengaluru,Blue Line,12.97,77.69,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Defense,Metro;Bus
+BLR118,ISRO,Bengaluru,Blue Line,12.96,77.70,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Research,Metro;Bus
+BLR119,Marathahalli,Bengaluru,Blue Line,12.95,77.70,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+BLR120,Devarabesanahalli,Bengaluru,Blue Line,12.94,77.69,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR121,Kadubeesanahalli,Bengaluru,Blue Line,12.93,77.69,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR122,Bellandur,Bengaluru,Blue Line,12.93,77.67,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,IT Hub,Metro;Bus
+BLR123,Ibblur,Bengaluru,Blue Line,12.92,77.66,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR124,Agara Lake,Bengaluru,Blue Line,12.92,77.64,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Park,Metro;Bus
+BLR125,HSR Layout,Bengaluru,Blue Line,12.91,77.63,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR126,Central Silk Board,Bengaluru,Blue Line,12.91,77.62,Regular,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Junction,Metro;Bus
+BLR127,Ragigudda,Bengaluru,Blue Line,12.92,77.59,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR128,Jayadeva Hospital,Bengaluru,Blue Line,12.92,77.60,Regular,Tier-3,1,4,12,8,6,20,2500,3000,20,Hospital Hub,Metro;Bus
+BLR129,Rashtriya Vidyalaya Road,Bengaluru,Blue Line,12.92,77.58,Regular,Tier-3,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Bus
+BLR130,Mahalakshmi,Bengaluru,Blue Line,13.01,77.55,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR131,Garudacharpalya,Bengaluru,Blue Line,12.99,77.70,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Park,Metro;Bus
+BLR132,Hoodi,Bengaluru,Blue Line,12.99,77.71,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR133,Seetharampalya,Bengaluru,Blue Line,12.98,77.72,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+BLR134,Nallurhalli,Bengaluru,Blue Line,12.97,77.72,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Park,Metro;Bus
+BLR135,Sri Sathya Sai Hospital,Bengaluru,Blue Line,12.97,77.73,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Hospital,Metro;Bus
+BLR136,Pattandur Agrahara,Bengaluru,Blue Line,12.98,77.74,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR137,Kadugodi Tree Park,Bengaluru,Blue Line,12.98,77.75,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Park,Metro;Bus
+BLR138,Hopefarm Channasandra,Bengaluru,Blue Line,12.99,77.75,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+BLR139,Whitefield (Kadugodi),Bengaluru,Blue Line,12.99,77.76,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,IT Hub,Metro;Bus
+BLR140,Channasandra,Bengaluru,Blue Line,13.00,77.76,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM001,Dahanu Road,Mumbai,Western Metro Line,19.97,72.73,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM002,Vangaon,Mumbai,Western Metro Line,19.86,72.74,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM003,Boisar,Mumbai,Western Metro Line,19.80,72.75,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+MUM004,Umroli,Mumbai,Western Metro Line,19.74,72.76,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM005,Palghar,Mumbai,Western Metro Line,19.70,72.77,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM006,Kelve Road,Mumbai,Western Metro Line,19.62,72.78,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM007,Saphale,Mumbai,Western Metro Line,19.57,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM008,Vaitarna,Mumbai,Western Metro Line,19.51,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM009,Virar,Mumbai,Western Metro Line,19.47,72.81,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Suburban Hub,Metro;Rail;Bus
+MUM010,Nallasopara,Mumbai,Western Metro Line,19.42,72.81,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM011,Vasai Road,Mumbai,Western Metro Line,19.38,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Suburban Hub,Metro;Rail;Bus
+MUM012,Naigaon,Mumbai,Western Metro Line,19.35,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM013,Bhayandar,Mumbai,Western Metro Line,19.31,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM014,Mira Road,Mumbai,Western Metro Line,19.28,72.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM015,Dahisar,Mumbai,Western Metro Line,19.25,72.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM016,Borivali,Mumbai,Western Metro Line,19.23,72.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+MUM017,Kandivali,Mumbai,Western Metro Line,19.21,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM018,Malad,Mumbai,Western Metro Line,19.19,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM019,Goregaon,Mumbai,Western Metro Line,19.16,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM020,Ram Mandir,Mumbai,Western Metro Line,19.15,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM021,Jogeshwari,Mumbai,Western Metro Line,19.14,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM022,Andheri,Mumbai,Western Metro Line-Proposed Metro - Under Construction,19.12,72.85,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM023,Vile Parle,Mumbai,Western Metro Line,19.10,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM024,Santa Cruz,Mumbai,Western Metro Line,19.08,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM025,Khar Road,Mumbai,Western Metro Line,19.07,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM026,Bandra,Mumbai,Western Metro Line,19.05,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+MUM027,Mahim,Mumbai,Western Metro Line,19.04,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM028,Matunga Road,Mumbai,Western Metro Line,19.03,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM029,Dadar,Mumbai,Western Metro Line-Central Metro Line,19.02,72.84,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM030,Prabhadevi,Mumbai,Western Metro Line,19.01,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM031,Lower Parel,Mumbai,Western Metro Line,19.00,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Corporate,Metro;Bus
+MUM032,Mahalaxmi,Mumbai,Western Metro Line,18.98,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM033,Mumbai Central,Mumbai,Western Metro Line,18.97,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Rail Hub,Metro;Rail;Bus
+MUM034,Grant Road,Mumbai,Western Metro Line,18.96,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM035,Charni Road,Mumbai,Western Metro Line,18.95,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM036,Marine Lines,Mumbai,Western Metro Line,18.94,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM037,Churchgate,Mumbai,Western Metro Line,18.93,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,12,Terminal Hub,Metro;Rail;Bus
+MUM038,Marine Drive,Mumbai,Western Metro Line,18.93,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Tourist,Metro;Bus
+MUM039,Nariman Point,Mumbai,Western Metro Line,18.92,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Corporate,Metro;Bus
+MUM040,Cuffe Parade,Mumbai,Western Metro Line,18.91,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM041,Colaba,Mumbai,Western Metro Line-Central Metro Line,18.91,72.83,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Tourist,Metro;Bus
+MUM042,World Trade Centre,Mumbai,Western Metro Line,18.90,72.82,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM043,Kasara,Mumbai,Central Metro Line,19.64,73.48,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM044,Umbermali,Mumbai,Central Metro Line,19.58,73.43,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM045,Khardi,Mumbai,Central Metro Line,19.53,73.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM046,Thansit,Mumbai,Central Metro Line,19.49,73.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM047,Atgaon,Mumbai,Central Metro Line,19.44,73.30,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM048,Asangaon,Mumbai,Central Metro Line,19.40,73.25,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM049,Vasind,Mumbai,Central Metro Line,19.35,73.20,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM050,Khadavli,Mumbai,Central Metro Line,19.31,73.16,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM051,Titwala,Mumbai,Central Metro Line,19.29,73.12,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM052,Ambivli,Mumbai,Central Metro Line,19.26,73.13,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM053,Shahad,Mumbai,Central Metro Line,19.25,73.14,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM054,Kalyan,Mumbai,Central Metro Line-Thane Metro Line,19.24,73.13,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Suburban Hub,Metro;Rail;Bus
+MUM055,Thakurli,Mumbai,Central Metro Line,19.22,73.09,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM056,Dombivli,Mumbai,Central Metro Line,19.21,73.08,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Residential,Metro;Bus
+MUM057,Kopar,Mumbai,Central Metro Line,19.20,73.07,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM058,Diva,Mumbai,Central Metro Line,19.19,73.04,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM059,Mumbra,Mumbai,Central Metro Line,19.17,73.02,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM060,Kalwa,Mumbai,Central Metro Line,19.19,72.99,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM061,Thane,Mumbai,Central Metro Line-Thane Metro Line-Proposed Metro - Under Construction,19.18,72.97,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM062,Mulund,Mumbai,Central Metro Line,19.17,72.95,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM063,Nahur,Mumbai,Central Metro Line,19.15,72.94,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM064,Bhandup,Mumbai,Central Metro Line,19.14,72.93,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM065,Kanjurmarg,Mumbai,Central Metro Line,19.13,72.93,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM066,Vikhroli,Mumbai,Central Metro Line,19.11,72.92,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM067,Ghatkopar,Mumbai,Central Metro Line-Proposed Metro - Under Construction,19.08,72.90,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Rail;Bus
+MUM068,Vidyavihar,Mumbai,Central Metro Line,19.07,72.89,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+MUM069,Kurla,Mumbai,Central Metro Line-Harbour Metro Line,19.06,72.88,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM070,Sion,Mumbai,Central Metro Line,19.04,72.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM071,Matunga,Mumbai,Central Metro Line,19.02,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+MUM072,Dadar,Mumbai,Central Metro Line-Western Metro Line,19.01,72.84,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM073,Parel,Mumbai,Central Metro Line,19.00,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital,Metro;Bus
+MUM074,Currey Road,Mumbai,Central Metro Line,18.99,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM075,Chinchpokli,Mumbai,Central Metro Line,18.98,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM076,Byculla,Mumbai,Central Metro Line,18.97,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM077,Sandhurst Road,Mumbai,Central Metro Line-Harbour Metro Line,18.96,72.83,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM078,Masjid,Mumbai,Central Metro Line-Harbour Metro Line,18.95,72.83,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM079,Chhatrapati Shivaji Maharaj Terminus,Mumbai,Central Metro Line-Harbour Metro Line,18.94,72.83,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Heritage Hub,Metro;Rail;Bus
+MUM080,Fort,Mumbai,Central Metro Line,18.93,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM081,Ballard Estate,Mumbai,Central Metro Line,18.93,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM082,Colaba,Mumbai,Central Metro Line-Western Metro Line,18.91,72.83,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM083,Chhatrapati Shivaji Maharaj Terminus,Mumbai,Harbour Metro Line-Central Metro Line,18.94,72.83,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Heritage Hub,Metro;Rail;Bus
+MUM084,Masjid,Mumbai,Harbour Metro Line,18.95,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM085,Sandhurst Road,Mumbai,Harbour Metro Line,18.96,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM086,Dockyard Road,Mumbai,Harbour Metro Line,18.96,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Port,Metro;Bus
+MUM087,Reay Road,Mumbai,Harbour Metro Line,18.97,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM088,Cotton Green,Mumbai,Harbour Metro Line,18.98,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM089,Sewri,Mumbai,Harbour Metro Line,18.99,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Port,Metro;Bus
+MUM090,Vadala Road,Mumbai,Harbour Metro Line,19.01,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Transit Hub,Metro;Bus
+MUM091,GTB Nagar,Mumbai,Harbour Metro Line,19.03,72.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM092,Chunabhatti,Mumbai,Harbour Metro Line,19.04,72.87,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM093,Kurla,Mumbai,Harbour Metro Line-Central Metro Line,19.06,72.88,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM094,Tilak Nagar,Mumbai,Harbour Metro Line,19.06,72.89,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM095,Chembur,Mumbai,Harbour Metro Line,19.05,72.90,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM096,Govandi,Mumbai,Harbour Metro Line,19.04,72.91,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM097,Mankhurd,Mumbai,Harbour Metro Line,19.04,72.93,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM098,Vashi,Mumbai,Harbour Metro Line,19.07,72.99,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Navi Mumbai Hub,Metro;Bus
+MUM099,Sanpada,Mumbai,Harbour Metro Line,19.06,73.00,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM100,Juinagar,Mumbai,Harbour Metro Line,19.05,73.01,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM101,Nerul,Mumbai,Harbour Metro Line,19.03,73.01,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM102,Seawoods-Darave,Mumbai,Harbour Metro Line,19.02,73.01,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM103,Belapur,Mumbai,Harbour Metro Line,19.01,73.04,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,CBD Belapur,Metro;Bus
+MUM104,Kharghar,Mumbai,Harbour Metro Line,19.03,73.06,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM105,Mansarovar,Mumbai,Harbour Metro Line,19.01,73.08,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM106,Khandeshwar,Mumbai,Harbour Metro Line,19.00,73.10,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM107,Panvel,Mumbai,Harbour Metro Line,18.99,73.11,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Terminal Hub,Metro;Rail;Bus
+MUM108,Somatane,Mumbai,Harbour Metro Line,18.96,73.14,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM109,Rasayani,Mumbai,Harbour Metro Line,18.90,73.17,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+MUM110,Apta,Mumbai,Harbour Metro Line,18.86,73.14,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM111,Jite,Mumbai,Harbour Metro Line,18.82,73.11,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM112,Hamarapur,Mumbai,Harbour Metro Line,18.76,73.08,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM113,Pen,Mumbai,Harbour Metro Line,18.67,73.09,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM114,Thane,Mumbai,Thane Metro Line-Central Metro Line,19.18,72.97,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM115,Kalwa,Mumbai,Thane Metro Line,19.19,72.99,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM116,Mumbra,Mumbai,Thane Metro Line,19.17,73.02,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM117,Diva,Mumbai,Thane Metro Line,19.19,73.04,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM118,Kopar,Mumbai,Thane Metro Line,19.20,73.07,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM119,Dombivli,Mumbai,Thane Metro Line,19.21,73.08,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Residential,Metro;Bus
+MUM120,Thakurli,Mumbai,Thane Metro Line,19.22,73.09,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM121,Kalyan,Mumbai,Thane Metro Line-Central Metro Line,19.24,73.13,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Suburban Hub,Metro;Rail;Bus
+MUM122,Vithalwadi,Mumbai,Thane Metro Line,19.23,73.14,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM123,Ulhasnagar,Mumbai,Thane Metro Line,19.22,73.15,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM124,Ambernath,Mumbai,Thane Metro Line,19.19,73.19,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+MUM125,Badlapur,Mumbai,Thane Metro Line,19.15,73.23,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM126,Vangani,Mumbai,Thane Metro Line,19.09,73.22,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM127,Shelu,Mumbai,Thane Metro Line,19.05,73.27,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM128,Neral,Mumbai,Thane Metro Line,19.02,73.31,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hill Station Junction,Metro;Bus
+MUM129,Bhivpuri Road,Mumbai,Thane Metro Line,18.97,73.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM130,Karjat,Mumbai,Thane Metro Line,18.91,73.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Junction,Metro;Rail;Bus
+MUM131,Palasdari,Mumbai,Thane Metro Line,18.88,73.31,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM132,Khopoli,Mumbai,Thane Metro Line,18.78,73.34,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM133,Versova,Mumbai,Proposed Metro - Under Construction,19.13,72.81,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM134,D. N. Nagar,Mumbai,Proposed Metro - Under Construction,19.12,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM135,Azad Nagar,Mumbai,Proposed Metro - Under Construction,19.12,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM136,Andheri,Mumbai,Proposed Metro - Under Construction-Western Metro Line,19.12,72.85,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM137,WEH,Mumbai,Proposed Metro - Under Construction,19.11,72.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM138,Chakala,Mumbai,Proposed Metro - Under Construction,19.11,72.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+MUM139,Airport Road,Mumbai,Proposed Metro - Under Construction,19.11,72.87,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Airport Corridor,Metro;Bus
+MUM140,Marol Naka,Mumbai,Proposed Metro - Under Construction,19.11,72.88,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM141,Saki Naka,Mumbai,Proposed Metro - Under Construction,19.10,72.88,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM142,Asalpha,Mumbai,Proposed Metro - Under Construction,19.09,72.89,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM143,Jagruti Nagar,Mumbai,Proposed Metro - Under Construction,19.09,72.90,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM144,Ghatkopar,Mumbai,Proposed Metro - Under Construction-Central Metro Line,19.08,72.90,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Transit Hub,Metro;Rail;Bus
+MUM145,Vikhroli,Mumbai,Proposed Metro - Under Construction,19.11,72.92,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM146,Kanjurmarg,Mumbai,Proposed Metro - Under Construction,19.13,72.93,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM147,Bhandup,Mumbai,Proposed Metro - Under Construction,19.14,72.93,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM148,Nahur,Mumbai,Proposed Metro - Under Construction,19.15,72.94,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM149,Mulund,Mumbai,Proposed Metro - Under Construction,19.17,72.95,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM150,Thane,Mumbai,Proposed Metro - Under Construction-Central Metro Line,19.18,72.97,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+MUM151,Airoli,Mumbai,Proposed Metro - Under Construction,19.15,72.99,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM152,Dahisar East,Mumbai,Proposed Metro Extension,19.26,72.86,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM153,Anand Nagar,Mumbai,Proposed Metro Extension,19.25,72.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM154,Kandarpada,Mumbai,Proposed Metro Extension,19.25,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM155,Mandapeshwar,Mumbai,Proposed Metro Extension,19.24,72.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM156,Dahisar West,Mumbai,Proposed Metro Extension,19.24,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM157,Borivali West,Mumbai,Proposed Metro Extension,19.23,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM158,Pahadi Eksar,Mumbai,Proposed Metro Extension,19.22,72.84,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM159,Kandivali West,Mumbai,Proposed Metro - Extension,19.21,72.84,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM160,Dahanukarwadi,Mumbai,Proposed Metro - Extension,19.20,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM161,Valnai,Mumbai,Proposed Metro - Extension,19.19,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM162,Malad West,Mumbai,Proposed Metro - Extension,19.18,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM163,Lower Malad,Mumbai,Proposed Metro - Extension,19.17,72.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM164,Pahadi Goregaon,Mumbai,Proposed Metro - Extension,19.16,72.84,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM165,Goregaon West,Mumbai,Proposed Metro - Extension 2,19.15,72.84,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+MUM166,Oshiwara,Mumbai,Proposed Metro - Extension 2,19.14,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM167,Lower Oshiwara,Mumbai,Proposed Metro - Extension 2,19.13,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM168,Andheri West,Mumbai,Proposed Metro - Extension 2,19.12,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM169,Juhu,Mumbai,Proposed Metro - Extension 2,19.10,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Beach/Residential,Metro;Bus
+MUM170,Vile Parle West,Mumbai,Proposed Metro - Extension 2,19.09,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+MUM171,Santacruz West,Mumbai,Proposed Metro - Extension 2,19.08,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM172,Khar West,Mumbai,Proposed Metro - Extension 2,19.07,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM173,Bandra West,Mumbai,Proposed Metro - Extension 2,19.05,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Commercial,Metro;Bus
+MUM174,Mahim West,Mumbai,Proposed Metro - Extension 2,19.04,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+MUM175,Dadar West,Mumbai,Proposed Metro - Extension 2,19.02,72.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM176,Prabhadevi West,Mumbai,Proposed Metro - Extension 2,19.01,72.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+MUM177,Lower Parel West,Mumbai,Proposed Metro - Extension 2,19.00,72.82,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+CHE001,St. Thomas Mount,Chennai,Green Line-Purple Line,13.00,80.19,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+CHE002,Alandur,Chennai,Green Line-Red Dotted Corridor-Light Blue Corridor,13.00,80.20,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+CHE003,Ekkattuthangal,Chennai,Green Line,13.01,80.20,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE004,Ashok Nagar,Chennai,Green Line,13.03,80.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE005,Vadapalani,Chennai,Green Line,13.05,80.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE006,Arumbakkam,Chennai,Green Line,13.06,80.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE007,CMBT,Chennai,Green Line,13.07,80.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Bus Terminal Hub,Metro;Bus
+CHE008,Koyambedu,Chennai,Green Line,13.07,80.19,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Market Hub,Metro;Bus
+CHE009,Thirumangalam,Chennai,Green Line,13.08,80.19,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE010,Anna Nagar Tower,Chennai,Green Line,13.08,80.21,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE011,Anna Nagar East,Chennai,Green Line,13.08,80.22,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE012,Shenoy Nagar,Chennai,Green Line,13.08,80.23,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Park/Residential,Metro;Bus
+CHE013,Pachaiyappa's College,Chennai,Green Line,13.08,80.24,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+CHE014,Kilpauk,Chennai,Green Line,13.08,80.24,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital/Residential,Metro;Bus
+CHE015,Nehru Park,Chennai,Green Line,13.08,80.25,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Park/Residential,Metro;Bus
+CHE016,Egmore,Chennai,Green Line-Light Blue Corridor,13.08,80.26,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Rail Hub,Metro;Rail;Bus
+CHE017,St. Thomas Mount,Chennai,Purple Line-Green Line,13.00,80.19,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+CHE018,Guindy Metro,Chennai,Purple Line-Red Dotted Corridor-Light Blue Corridor,13.01,80.21,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Suburban Hub,Metro;Rail;Bus
+CHE019,Little Mount,Chennai,Purple Line-Red Dotted Corridor,13.02,80.22,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE020,Saidapet,Chennai,Purple Line-Light Blue Corridor,13.02,80.22,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE021,Mambalam,Chennai,Purple Line-Light Blue Corridor,13.04,80.23,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE022,Kodambakkam,Chennai,Purple Line-Light Blue Corridor,13.05,80.23,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE023,Nungambakkam,Chennai,Purple Line-Light Blue Corridor,13.06,80.24,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE024,Chetpet,Chennai,Purple Line,13.07,80.24,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE025,Chennai Central,Chennai,Purple Line-Light Blue Corridor,13.08,80.27,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Rail Hub,Metro;Rail;Bus
+CHE026,High Court,Chennai,Purple Line-Orange Line,13.09,80.28,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Judicial/Commercial,Metro;Bus
+CHE027,Mannadi,Chennai,Purple Line,13.09,80.29,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+CHE028,Alandur,Chennai,Red Dotted Corridor-Green Line-Light Blue Corridor,13.00,80.20,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+CHE029,Guindy,Chennai,Red Dotted Corridor-Light Blue Corridor,13.01,80.21,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Suburban Hub,Metro;Bus
+CHE030,Guindy Metro,Chennai,Red Dotted Corridor-Purple Line,13.01,80.21,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Suburban Hub,Metro;Bus
+CHE031,Little Mount,Chennai,Red Dotted Corridor-Purple Line,13.02,80.22,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE032,Saidapet Metro,Chennai,Red Dotted Corridor-Light Blue Corridor,13.02,80.22,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE033,AG - DMS,Chennai,Red Dotted Corridor-Light Blue Corridor,13.04,80.25,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE034,Thousand Lights,Chennai,Red Dotted Corridor,13.06,80.25,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE035,LIC,Chennai,Red Dotted Corridor-Light Blue Corridor,13.06,80.26,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Corporate,Metro;Bus
+CHE036,Government Estate,Chennai,Red Dotted Corridor,13.07,80.27,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Civic Center,Metro;Bus
+CHE037,Park Town,Chennai,Red Dotted Corridor-Orange Line-Light Blue Corridor,13.08,80.27,Terminal,Tier-3,1,4,10,6,4,16,2200,2500,15,Rail Hub,Metro;Rail;Bus
+CHE038,Indira Nagar,Chennai,Orange Line,12.99,80.25,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+CHE039,Kasturibai Nagar,Chennai,Orange Line,13.00,80.25,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education/Residential,Metro;Bus
+CHE040,Kotturpuram,Chennai,Orange Line,13.01,80.24,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE041,Greenways Road,Chennai,Orange Line,13.02,80.25,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE042,Mandaveli,Chennai,Orange Line,13.03,80.26,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE043,Thirumayilai,Chennai,Orange Line,13.03,80.27,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Cultural Hub,Metro;Bus
+CHE044,Mundagakanni Amman Koil,Chennai,Orange Line,13.04,80.27,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Temple/Residential,Metro;Bus
+CHE045,Light House,Chennai,Orange Line,13.04,80.28,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Beach/Tourist,Metro;Bus
+CHE046,Thiruvallikeni,Chennai,Orange Line,13.05,80.28,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE047,Chepauk,Chennai,Orange Line,13.06,80.28,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Stadium/Civic,Metro;Bus
+CHE048,Chintadripet,Chennai,Orange Line-Light Blue Corridor,13.07,80.27,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE049,Park Town,Chennai,Orange Line-Red Dotted Corridor-Light Blue Corridor,13.08,80.27,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Rail Hub,Metro;Rail;Bus
+CHE050,Chennai Fort,Chennai,Orange Line,13.08,80.28,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Heritage/Civic,Metro;Bus
+CHE051,High Court,Chennai,Orange Line-Purple Line,13.09,80.28,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Judicial/Commercial,Metro;Bus
+CHE052,Chennai Beach,Chennai,Orange Line,13.10,80.29,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal Hub,Metro;Rail;Bus
+CHE053,Alandur,Chennai,Light Blue Corridor-Green Line-Red Dotted Corridor,13.00,80.20,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Hub,Metro;Rail;Bus
+CHE054,Guindy,Chennai,Light Blue Corridor-Red Dotted Corridor,13.01,80.21,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Suburban Hub,Metro;Bus
+CHE055,Saidapet Metro,Chennai,Light Blue Corridor-Red Dotted Corridor,13.02,80.22,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE056,AG - DMS,Chennai,Light Blue Corridor-Red Dotted Corridor,13.04,80.25,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE057,LIC,Chennai,Light Blue Corridor-Red Dotted Corridor,13.06,80.26,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Corporate,Metro;Bus
+CHE058,Chintadripet,Chennai,Light Blue Corridor-Orange Line,13.07,80.27,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE059,Park Town,Chennai,Light Blue Corridor-Red Dotted Corridor-Orange Line,13.08,80.27,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Rail Hub,Metro;Rail;Bus
+CHE060,Chennai Central,Chennai,Light Blue Corridor-Purple Line,13.08,80.27,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Rail Hub,Metro;Rail;Bus
+CHE061,Egmore,Chennai,Light Blue Corridor-Green Line,13.08,80.26,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Rail Hub,Metro;Rail;Bus
+CHE062,Nungambakkam,Chennai,Light Blue Corridor-Purple Line,13.06,80.24,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE063,Kodambakkam,Chennai,Light Blue Corridor-Purple Line,13.05,80.23,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE064,Mambalam,Chennai,Light Blue Corridor-Purple Line,13.04,80.23,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+CHE065,Saidapet,Chennai,Light Blue Corridor-Purple Line,13.02,80.22,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+CHE066,Guindy Metro,Chennai,Light Blue Corridor-Purple Line,13.01,80.21,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+KOL001,Dakshineswar,Kolkata,Line 1,22.65,88.36,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal/Heritage,Metro;Bus
+KOL002,Baranagar,Kolkata,Line 1-Line 5,22.64,88.37,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Suburban Hub,Metro;Rail;Bus
+KOL003,Dum Dum,Kolkata,Line 1,22.62,88.37,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Major Rail Hub,Metro;Rail;Bus
+KOL004,Belgachia,Kolkata,Line 1,22.60,88.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL005,Shyambazar,Kolkata,Line 1,22.60,88.37,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial/Heritage,Metro;Bus
+KOL006,Girish Park,Kolkata,Line 1,22.58,88.36,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+KOL007,Chandni Chowk,Kolkata,Line 1,22.56,88.35,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Electronics Hub,Metro;Bus
+KOL008,Esplanade,Kolkata,Line 1-Line 2-Line 3,22.56,88.35,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Central Hub,Metro;Bus
+KOL009,Park Street,Kolkata,Line 1-Line 3,22.55,88.35,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial/Dining,Metro;Bus
+KOL010,Maidan,Kolkata,Line 1,22.55,88.35,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Park/Civic,Metro;Bus
+KOL011,Rabindra Sadan,Kolkata,Line 1,22.54,88.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Cultural Hub,Metro;Bus
+KOL012,Netaji Bhavan,Kolkata,Line 1,22.53,88.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL013,Jatin Das Park,Kolkata,Line 1,22.53,88.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital/Residential,Metro;Bus
+KOL014,Kalighat,Kolkata,Line 1,22.52,88.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Temple/Commercial,Metro;Bus
+KOL015,Rabindra Sarobar,Kolkata,Line 1,22.51,88.35,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Lake/Residential,Metro;Bus
+KOL016,Mahanayak Uttam Kumar,Kolkata,Line 1,22.49,88.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Tollygunge Hub,Metro;Bus
+KOL017,Netaji,Kolkata,Line 1,22.48,88.35,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Kudghat,Metro;Bus
+KOL018,Masterda Surya Sen,Kolkata,Line 1,22.47,88.36,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Bansdroni,Metro;Bus
+KOL019,Kavi Nazrul,Kolkata,Line 1,22.46,88.37,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Garia Bazar,Metro;Bus
+KOL020,Gitanjali,Kolkata,Line 1,22.46,88.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Naktala,Metro;Bus
+KOL021,Kavi Subhash,Kolkata,Line 1-Line 6,22.45,88.39,Terminal,Tier-3,1,4,10,6,4,16,2200,2500,15,New Garia Terminal,Metro;Rail;Bus
+KOL022,Howrah Maidan,Kolkata,Line 2,22.58,88.32,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+KOL023,Howrah,Kolkata,Line 2,22.58,88.34,Regular,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Rail Terminal,Metro;Rail;Bus
+KOL024,Mahakaran,Kolkata,Line 2,22.57,88.35,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Civic/Secretariat,Metro;Bus
+KOL025,Esplanade,Kolkata,Line 2-Line 1-Line 3,22.56,88.35,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Central Hub,Metro;Bus
+KOL026,Sealdah,Kolkata,Line 2,22.56,88.37,Regular,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Rail Terminal,Metro;Rail;Bus
+KOL027,Phoolbagan,Kolkata,Line 2,22.57,88.39,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL028,Salt Lake Stadium,Kolkata,Line 2,22.57,88.40,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Stadium/Sports,Metro;Bus
+KOL029,Karunamoyee,Kolkata,Line 2,22.58,88.41,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Bus Terminal,Metro;Bus
+KOL030,Central Park,Kolkata,Line 2,22.58,88.42,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Depot/Civic,Metro;Bus
+KOL031,City Centre,Kolkata,Line 2,22.58,88.41,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+KOL032,Chingrighata,Kolkata,Line 2,22.56,88.41,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,EM Bypass,Metro;Bus
+KOL033,Beliaghata,Kolkata,Line 2-Line 6,22.56,88.40,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL034,Baguiati,Kolkata,Line 2,22.61,88.42,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL035,Dum Dum Park,Kolkata,Line 2,22.61,88.41,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL036,Keshopur,Kolkata,Line 2,22.56,88.43,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+KOL037,IIM,Kolkata,Line 3,22.44,88.30,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Education Terminal,Metro;Bus
+KOL038,Joka,Kolkata,Line 3,22.45,88.31,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Suburban Hub,Metro;Bus
+KOL039,Thakurpukur,Kolkata,Line 3,22.46,88.31,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL040,Sakherbazar,Kolkata,Line 3,22.48,88.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Market,Metro;Bus
+KOL041,Behala Chowrasta,Kolkata,Line 3,22.49,88.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+KOL042,Behala Bazar,Kolkata,Line 3,22.50,88.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Market/Residential,Metro;Bus
+KOL043,Taratala,Kolkata,Line 3,22.51,88.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+KOL044,Majerhat,Kolkata,Line 3,22.52,88.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Rail Interchange,Metro;Rail;Bus
+KOL045,Mominpur,Kolkata,Line 3,22.53,88.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Port/Residential,Metro;Bus
+KOL046,Kidderpore,Kolkata,Line 3,22.54,88.33,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Port/Commercial,Metro;Bus
+KOL047,Victoria,Kolkata,Line 3,22.54,88.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Tourist/Heritage,Metro;Bus
+KOL048,Esplanade,Kolkata,Line 3-Line 1-Line 2,22.56,88.35,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Central Hub,Metro;Bus
+KOL049,Barasat,Kolkata,Line 4,22.72,88.48,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Suburban Terminal,Metro;Rail;Bus
+KOL050,Hridaypur,Kolkata,Line 4,22.70,88.47,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL051,Madhyamgram,Kolkata,Line 4,22.69,88.45,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Suburban Hub,Metro;Bus
+KOL052,New Barrackpore,Kolkata,Line 4,22.68,88.44,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL053,Michael Nagar,Kolkata,Line 4,22.66,88.44,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL054,Birati,Kolkata,Line 4,22.66,88.43,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL055,Biman Bandar,Kolkata,Line 4-Line 6,22.65,88.44,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Airport Hub,Metro;Cab;Bus
+KOL056,Teghoria,Kolkata,Line 4-Line 6,22.63,88.43,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL057,Haldiram,Kolkata,Line 4,22.63,88.43,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+KOL058,Chinar Park,Kolkata,Line 4,22.62,88.44,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+KOL059,Rajarhat,Kolkata,Line 4,22.61,88.46,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,New Town Hub,Metro;Bus
+KOL060,New Town,Kolkata,Line 4-Line 6,22.58,88.46,Terminal,Tier-3,1,4,10,6,4,16,2200,2500,15,IT/New Town Terminal,Metro;Bus
+KOL061,Barrackpore,Kolkata,Line 5,22.76,88.37,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Suburban Terminal,Metro;Rail;Bus
+KOL062,Talpukur,Kolkata,Line 5,22.74,88.37,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL063,Titagarh,Kolkata,Line 5,22.73,88.37,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+KOL064,Tata Gate,Kolkata,Line 5,22.71,88.37,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial,Metro;Bus
+KOL065,Khardaha,Kolkata,Line 5,22.71,88.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL066,Subhash Nagar,Kolkata,Line 5,22.70,88.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL067,Panihati,Kolkata,Line 5,22.69,88.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL068,Sodepur,Kolkata,Line 5,22.69,88.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+KOL069,Agarpara,Kolkata,Line 5,22.67,88.38,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL070,Kamarhati,Kolkata,Line 5,22.66,88.37,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital/Residential,Metro;Bus
+KOL071,Baranagar,Kolkata,Line 5-Line 1,22.64,88.37,Terminal,Tier-3,1,4,10,6,4,16,2200,2500,15,Interchange Terminal,Metro;Rail;Bus
+KOL072,Biman Bandar,Kolkata,Line 6-Line 4,22.65,88.44,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Airport Terminal,Metro;Cab;Bus
+KOL073,Teghoria,Kolkata,Line 6-Line 4,22.63,88.43,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL074,Rabindra Tirtha,Kolkata,Line 6,22.60,88.45,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Cultural Center,Metro;Bus
+KOL075,Salt Lake Sector V,Kolkata,Line 6-Line 2,22.58,88.43,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,IT Hub,Metro;Bus
+KOL076,Technopolis,Kolkata,Line 6,22.58,88.44,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Park,Metro;Bus
+KOL077,Bidhan Nagar,Kolkata,Line 6,22.58,88.45,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Civic Center,Metro;Bus
+KOL078,CBD 1,Kolkata,Line 6,22.57,88.46,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Corporate,Metro;Bus
+KOL079,CBD 2,Kolkata,Line 6,22.57,88.47,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Corporate,Metro;Bus
+KOL080,Convention Centre,Kolkata,Line 6,22.56,88.46,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Expo/Convention,Metro;Bus
+KOL081,New Town,Kolkata,Line 6-Line 4,22.58,88.46,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Hub,Metro;Bus
+KOL082,Kalakhetra,Kolkata,Line 6,22.55,88.43,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Cultural,Metro;Bus
+KOL083,Beliaghata,Kolkata,Line 6-Line 2,22.56,88.40,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Bypass Hub,Metro;Bus
+KOL084,Gaur Kishore,Kolkata,Line 6,22.54,88.40,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL085,Barun Sengupta,Kolkata,Line 6,22.53,88.39,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Science City Area,Metro;Bus
+KOL086,VIP Bazar,Kolkata,Line 6,22.52,88.39,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Market,Metro;Bus
+KOL087,Ritwik Ghatak,Kolkata,Line 6,22.51,88.39,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOL088,Beliaghata,Kolkata,Line 6,22.50,88.39,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital Hub,Metro;Bus
+KOL089,Kavi Sukanta,Kolkata,Line 6,22.49,88.39,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Kalikapur,Metro;Bus
+KOL090,Jyotirindra Nandi,Kolkata,Line 6,22.48,88.40,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Mukundapur,Metro;Bus
+KOL091,Hemanta Mukhopadhyay,Kolkata,Line 6,22.47,88.40,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Ruby Hospital Hub,Metro;Bus
+KOL092,Satyajit Ray,Kolkata,Line 6,22.46,88.40,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,SRFTI/Residential,Metro;Bus
+KOL093,Kavi Subhash,Kolkata,Line 6-Line 1,22.45,88.39,Terminal,Tier-3,1,4,10,6,4,16,2200,2500,15,New Garia Terminal,Metro;Rail;Bus
+LKO001,Chaudhary Charan Singh Airport,Lucknow,N-S Corridor (Elevated),26.76,80.88,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Airport Terminal,Metro;Cab;Bus
+LKO002,Amausi,Lucknow,N-S Corridor (Elevated),26.77,80.88,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Industrial/Residential,Metro;Bus
+LKO003,Transport Nagar,Lucknow,N-S Corridor (Elevated),26.78,80.89,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Transport Hub,Metro;Bus
+LKO004,Krishna Nagar,Lucknow,N-S Corridor (Elevated),26.79,80.89,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO005,Singar Nagar,Lucknow,N-S Corridor (Elevated),26.80,80.90,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO006,Alambagh,Lucknow,N-S Corridor (Elevated),26.81,80.91,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+LKO007,Alambagh Bus Stand,Lucknow,N-S Corridor (Elevated),26.82,80.91,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Bus Terminal,Metro;Bus
+LKO008,Mawaiya,Lucknow,N-S Corridor (Elevated),26.82,80.92,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO009,Durgapuri,Lucknow,N-S Corridor (Elevated),26.83,80.92,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO010,Charbagh Railway Station,Lucknow,N-S Corridor (Elevated)-N-S Corridor (Underground)-E-W Corridor,26.83,80.92,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Rail Hub,Metro;Rail;Bus
+LKO011,Gautam Buddha Marg,Lucknow,N-S Corridor (Elevated)-N-S Corridor (Underground),26.84,80.93,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+LKO012,Hussainganj,Lucknow,N-S Corridor (Elevated)-N-S Corridor (Underground),26.84,80.93,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial/Residential,Metro;Bus
+LKO013,Sachivalaya,Lucknow,N-S Corridor (Elevated)-N-S Corridor (Underground),26.85,80.94,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Secretariat/Civic,Metro;Bus
+LKO014,Hazratganj,Lucknow,N-S Corridor (Elevated)-N-S Corridor (Underground),26.85,80.94,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Shopping/Commercial,Metro;Bus
+LKO015,KD Singh Babu Stadium,Lucknow,N-S Corridor (Elevated)-N-S Corridor (Underground),26.86,80.94,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Stadium/Civic,Metro;Bus
+LKO016,Lucknow University,Lucknow,N-S Corridor (Elevated),26.86,80.93,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+LKO017,IT College,Lucknow,N-S Corridor (Elevated),26.87,80.94,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+LKO018,Mahanagar,Lucknow,N-S Corridor (Elevated),26.87,80.95,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO019,Badshah Nagar,Lucknow,N-S Corridor (Elevated),26.87,80.96,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Rail Interchange,Metro;Rail;Bus
+LKO020,Lekhraj Market,Lucknow,N-S Corridor (Elevated),26.88,80.97,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+LKO021,Indira Nagar,Lucknow,N-S Corridor (Elevated),26.88,80.98,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO022,Munshipulia,Lucknow,N-S Corridor (Elevated),26.89,80.99,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+LKO023,Charbagh Railway Station,Lucknow,N-S Corridor (Underground)-N-S Corridor (Elevated)-E-W Corridor,26.83,80.92,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Rail Hub,Metro;Rail;Bus
+LKO024,Gautam Buddha Marg,Lucknow,N-S Corridor (Underground)-N-S Corridor (Elevated),26.84,80.93,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+LKO025,Hussainganj,Lucknow,N-S Corridor (Underground)-N-S Corridor (Elevated),26.84,80.93,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+LKO026,Sachivalaya,Lucknow,N-S Corridor (Underground)-N-S Corridor (Elevated),26.85,80.94,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Secretariat,Metro;Bus
+LKO027,Hazratganj,Lucknow,N-S Corridor (Underground)-N-S Corridor (Elevated),26.85,80.94,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+LKO028,KD Singh Babu Stadium,Lucknow,N-S Corridor (Underground)-N-S Corridor (Elevated),26.86,80.94,Interchange,Tier-3,0,2,6,4,2,10,1800,2100,8,Stadium,Metro;Bus
+LKO029,Vasant Kunj,Lucknow,E-W Corridor,26.88,80.86,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+LKO030,Musabagh,Lucknow,E-W Corridor,26.87,80.87,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO031,Sarfarazganj,Lucknow,E-W Corridor,26.87,80.88,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO032,Balaganj,Lucknow,E-W Corridor,26.87,80.89,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO033,Thakurganj,Lucknow,E-W Corridor,26.86,80.90,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO034,Nawajganj,Lucknow,E-W Corridor,26.86,80.90,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO035,Medical College,Lucknow,E-W Corridor,26.86,80.91,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital/Education,Metro;Bus
+LKO036,Lucknow City,Lucknow,E-W Corridor,26.85,80.91,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+LKO037,Rly Station,Lucknow,E-W Corridor,26.85,80.92,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Rail Hub,Metro;Rail;Bus
+LKO038,Pandeyganj,Lucknow,E-W Corridor,26.84,80.92,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+LKO039,Aminabad,Lucknow,E-W Corridor,26.84,80.93,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial Market,Metro;Bus
+LKO040,Charbagh Railway Station,Lucknow,E-W Corridor-N-S Corridor (Elevated)-N-S Corridor (Underground),26.83,80.92,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Major Rail Hub,Metro;Rail;Bus
+JAI001,Mansarovar,Jaipur,Operational,26.90,75.77,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+JAI002,New Aatish Market,Jaipur,Operational,26.90,75.79,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Market,Metro;Bus
+JAI003,Vivek Vihar,Jaipur,Operational,26.88,75.73,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI004,Shyam Nagar,Jaipur,Operational,26.90,75.73,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI005,Ram Nagar,Jaipur,Operational,26.94,75.73,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI006,Civil Lines,Jaipur,Operational,26.93,75.66,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential/Govt,Metro;Bus
+JAI007,Jaipur Railway Station,Jaipur,Operational,26.85,75.78,Regular,Tier-3,1,4,10,6,4,16,2200,2500,15,Rail Hub,Metro;Rail;Bus
+JAI008,Sindhi Camp,Jaipur,Operational,26.87,75.81,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Bus Terminal Hub,Metro;Bus
+JAI009,Chandpole,Jaipur,Operational,26.97,75.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Heritage Market,Metro;Bus
+JAI010,Choti Chaupar,Jaipur,Operational-Under Construction,26.84,75.78,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Heritage Center,Metro;Bus
+JAI011,Choti Chaupar,Jaipur,Under Construction-Operational,26.84,75.78,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Heritage Center,Metro;Bus
+JAI012,Badi Chaupar,Jaipur,Under Construction,26.91,75.80,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Heritage Hub,Metro;Bus
+JAI013,Jantar Mantar,Jaipur,Under Construction,26.92,75.82,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Tourist/Heritage,Metro;Bus
+JAI014,Ambabari,Jaipur,Proposed,26.96,75.78,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+JAI015,Pani Pech,Jaipur,Proposed,26.95,75.78,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI016,Subhash Nagar,Jaipur,Proposed,26.94,75.79,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI017,Government Hostel,Jaipur,Proposed,26.92,75.80,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Civic,Metro;Bus
+JAI018,SMS Hospital,Jaipur,Proposed,26.90,75.81,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital Hub,Metro;Bus
+JAI019,Narayan Singh Circle,Jaipur,Proposed,26.89,75.81,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Civic/Bus Hub,Metro;Bus
+JAI020,Sawai Mansingh Stadium,Jaipur,Proposed,26.88,75.80,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Stadium/Sports,Metro;Bus
+JAI021,Gandhi Nagar Mode,Jaipur,Proposed,26.87,75.80,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+JAI022,Tonk Phatak,Jaipur,Proposed,26.86,75.80,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+JAI023,Dev Nagar,Jaipur,Proposed,26.85,75.79,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI024,Gopalpura,Jaipur,Proposed,26.84,75.79,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education Hub,Metro;Bus
+JAI025,Mahaveer Nagar,Jaipur,Proposed,26.83,75.79,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI026,Durgapura,Jaipur,Proposed,26.83,75.79,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Rail Hub,Metro;Rail;Bus
+JAI027,Laxmi Nagar,Jaipur,Proposed,26.82,75.79,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI028,Airport Station,Jaipur,Proposed,26.82,75.80,Regular,Tier-3,1,4,10,6,4,16,2200,2500,15,Airport Terminal,Metro;Cab;Bus
+JAI029,Sanganer,Jaipur,Proposed,26.81,75.80,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Textile Market,Metro;Bus
+JAI030,Haldi Ghati Gate,Jaipur,Proposed,26.80,75.81,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+JAI031,Pratap Nagar,Jaipur,Proposed,26.79,75.81,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential Hub,Metro;Bus
+JAI032,Sitapura Industrial Area,Jaipur,Proposed,26.77,75.82,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Industrial Terminal,Metro;Bus
+KOC001,Aluva,Kochi,Kochi Metro,10.10,76.35,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal/Suburban Hub,Metro;Rail;Bus
+KOC002,Pulinchodu,Kochi,Kochi Metro,10.09,76.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOC003,Companypady,Kochi,Kochi Metro,10.08,76.34,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+KOC004,Ambattukavu,Kochi,Kochi Metro,10.07,76.33,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOC005,Muttom,Kochi,Kochi Metro,10.06,76.33,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Depot/Residential,Metro;Bus
+KOC006,Kalamassery,Kochi,Kochi Metro,10.05,76.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Educational/Industrial,Metro;Bus
+KOC007,Cochin University,Kochi,Kochi Metro,10.04,76.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,CUSAT University Hub,Metro;Bus
+KOC008,Pathadipalam,Kochi,Kochi Metro,10.03,76.31,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital/Residential,Metro;Bus
+KOC009,Edappally,Kochi,Kochi Metro,10.02,76.31,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Lulu Mall/Commercial,Metro;Bus
+KOC010,Changampuzha Park,Kochi,Kochi Metro,10.01,76.30,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Park/Residential,Metro;Bus
+KOC011,Palarivattom,Kochi,Kochi Metro,10.00,76.30,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial Hub,Metro;Bus
+KOC012,Jawaharlal Nehru Stadium,Kochi,Kochi Metro,9.99,76.29,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Sports Stadium,Metro;Bus
+KOC013,Kaloor,Kochi,Kochi Metro,9.99,76.28,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial Hub,Metro;Bus
+KOC014,North Town Hall,Kochi,Kochi Metro,9.98,76.28,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Town Hall/Civic,Metro;Bus
+KOC015,MG Road,Kochi,Kochi Metro,9.97,76.28,Regular,Tier-3,0,2,6,4,2,10,1800,2100,10,Central Shopping Hub,Metro;Bus
+KOC016,Maharaja's College,Kochi,Kochi Metro,9.97,76.28,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+KOC017,Ernakulam South,Kochi,Kochi Metro,9.96,76.29,Regular,Tier-3,1,4,10,6,4,16,2200,2500,15,Major Rail Hub,Metro;Rail;Bus
+KOC018,Kadavanthra,Kochi,Kochi Metro,9.96,76.30,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial/Residential,Metro;Bus
+KOC019,Elamkulam,Kochi,Kochi Metro,9.96,76.31,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOC020,Vyttila,Kochi,Kochi Metro,9.96,76.32,Regular,Tier-3,1,4,12,8,6,20,2500,3000,25,Mobility Hub/Water Metro,Metro;Bus
+KOC021,Thaikoodam,Kochi,Kochi Metro,9.95,76.32,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+KOC022,Petta,Kochi,Kochi Metro,9.95,76.33,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+PUN001,PCMC Bhavan,Pune,Line 1,18.62,73.81,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Civic Terminal,Metro;Bus
+PUN002,Sant Tukaram Nagar,Pune,Line 1,18.61,73.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN003,Bhosari (Nashik Phata),Pune,Line 1,18.60,73.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Highway Interchange,Metro;Bus
+PUN004,Kasarwadi,Pune,Line 1,18.59,73.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Rail Interchange,Metro;Rail;Bus
+PUN005,Phugewadi,Pune,Line 1,18.58,73.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN006,Dapodi,Pune,Line 1,18.57,73.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN007,Bopodi,Pune,Line 1,18.56,73.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN008,Khadki,Pune,Line 1,18.55,73.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Cantonment/Rail,Metro;Rail;Bus
+PUN009,Range Hills,Pune,Line 1,18.54,73.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN010,Shivajinagar,Pune,Line 1-Line 3,18.53,73.85,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Major Rail/Metro Interchange,Metro;Rail;Bus
+PUN011,Civil Court,Pune,Line 1-Line 2-Line 3,18.52,73.85,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Central Triple Interchange,Metro;Bus
+PUN012,Budhwar Peth,Pune,Line 1,18.51,73.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Heritage Market,Metro;Bus
+PUN013,Mandai,Pune,Line 1,18.51,73.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Central Market,Metro;Bus
+PUN014,Swargate,Pune,Line 1,18.50,73.86,Terminal,Tier-3,1,4,10,6,4,16,2200,2500,15,Major Bus/Metro Terminal,Metro;Bus
+PUN015,Vanaz,Pune,Line 2,18.50,73.80,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Suburban Terminal,Metro;Bus
+PUN016,Anand Nagar,Pune,Line 2,18.50,73.81,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN017,Ideal Colony,Pune,Line 2,18.51,73.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN018,Nal Stop,Pune,Line 2,18.51,73.83,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Flyover Transit,Metro;Bus
+PUN019,Garware College,Pune,Line 2,18.51,73.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Education,Metro;Bus
+PUN020,Deccan Gymkhana,Pune,Line 2,18.51,73.84,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial Hub,Metro;Bus
+PUN021,Chhatrapati Sambhaji Udyan,Pune,Line 2,18.52,73.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Park/Civic,Metro;Bus
+PUN022,PMC,Pune,Line 2,18.52,73.85,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Civic Center,Metro;Bus
+PUN023,Civil Court,Pune,Line 2-Line 1-Line 3,18.52,73.85,Interchange,Tier-3,1,4,12,8,6,20,2500,3000,25,Central Triple Interchange,Metro;Bus
+PUN024,Mangalwar Peth,Pune,Line 2,18.52,73.86,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN025,Pune Railway Station,Pune,Line 2,18.53,73.87,Regular,Tier-3,1,4,10,6,4,16,2200,2500,15,Major Rail Hub,Metro;Rail;Bus
+PUN026,Ruby Hall Clinic,Pune,Line 2,18.53,73.88,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Hospital Hub,Metro;Bus
+PUN027,Bund Garden,Pune,Line 2,18.54,73.88,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Civic/Park,Metro;Bus
+PUN028,Yerawada,Pune,Line 2,18.55,73.88,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial/IT,Metro;Bus
+PUN029,Kalyani Nagar,Pune,Line 2,18.55,73.90,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT/Residential,Metro;Bus
+PUN030,Ramwadi,Pune,Line 2,18.56,73.91,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,Terminal,Metro;Bus
+PUN031,Hinjawadi Phase 3,Pune,Line 3,18.58,73.68,Terminal,Tier-3,0,2,8,4,2,12,1800,2100,10,IT Park Terminal,Metro;Bus
+PUN032,Hinjawadi Phase 1,Pune,Line 3,18.59,73.71,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,IT Park,Metro;Bus
+PUN033,Wakad Chowk,Pune,Line 3,18.59,73.74,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Commercial,Metro;Bus
+PUN034,Balewadi Stadium,Pune,Line 3,18.58,73.76,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Sports Stadium,Metro;Bus
+PUN035,NICMAR,Pune,Line 3,18.57,73.77,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Educational,Metro;Bus
+PUN036,Ram Nagar,Pune,Line 3,18.57,73.78,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN037,Laxmi Nagar,Pune,Line 3,18.58,73.78,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN038,Dange Chowk,Pune,Line 3,18.60,73.78,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Suburban Hub,Metro;Bus
+PUN039,Wakad,Pune,Line 3,18.60,73.76,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential,Metro;Bus
+PUN040,Aundh,Pune,Line 3,18.56,73.80,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,Residential/Commercial,Metro;Bus
+PUN041,University,Pune,Line 3,18.55,73.82,Regular,Tier-3,0,2,6,4,2,10,1800,2100,8,SPPU University Hub,Metro;Bus
+PUN042,Shivajinagar,Pune,Line 3-Line 1,18.53,73.85,Interchange,Tier-3,1,4,10,6,4,16,2200,2500,15,Major Rail/Metro Interchange,Metro;Rail;Bus
+PUN043,Civil Court,Pune,Line 3-Line 1-Line 2,18.52,73.85,Terminal,Tier-3,1,4,12,8,6,20,2500,3000,25,Central Triple Interchange,Metro;Bus

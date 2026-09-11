@@ -1,0 +1,15 @@
+{
+    "model": "CatBoostRegressor",
+    "target": "next_30min_occupancy_pct",
+    "training_rows": 32087,
+    "validation_rows": 6877,
+    "test_rows": 6876,
+    "features": 62,
+    "categorical_features": 18,
+    "validation_mae": 5.521510215012435,
+    "validation_rmse": 6.950478083059355,
+    "validation_r2": 0.8848004963334485,
+    "test_mae": 5.563598186383798,
+    "test_rmse": 7.005838547089371,
+    "test_r2": 0.9018513890352562
+}

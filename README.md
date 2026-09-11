@@ -1,3 +1,4 @@
+
 # 🚇 MetroFlow AI — Smart Metro Crowd Management & Peak Hour Mobile Alert System
 
 <div align="center">
@@ -329,3 +330,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <div align="center">
   <sub>Built with ❤️ for Modern Urban Mobility & Smart Transit Infrastructure</sub>
 </div>
+=======
+# Metro-Crowd-Management
+AI-based Metro Crowd Management System using React, FastAPI and CatBoost
+
